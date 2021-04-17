@@ -1,6 +1,6 @@
 <h1>An API mini project hosted on Azure DevOps</h1>
 
-<b>Task:<b/> Execute tests on commits to the github repro and if successful trigger deployment to production.
+<b>Task:</b> Execute tests on commits to the github repro and if successful trigger deployment to production.
 
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/1.png)
 
