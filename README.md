@@ -10,6 +10,7 @@ At first I was under the assumption that you can do everything online using micr
 
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/2.png)
 In the end the Mac agent accepted the jobs.
+![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/15.png)
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/3.png)
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/4.png)
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/5.png)
@@ -44,9 +45,6 @@ For passing unit test’s and deploying the code changes there is never a need t
 If you do start the server (Button:Start) then make sure to stop the server when you are done.
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/13.png)
 
-
-
-![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/15.png)
 
 
 <b>Roll your own: </b>
