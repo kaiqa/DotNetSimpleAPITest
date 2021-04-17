@@ -1,4 +1,4 @@
-<h1>API mini project hosted on Azure DevOps</h1>
+<h1>.NET mini API project hosted on Azure DevOps</h1>
 <b>Task:</b> Execute tests on commits to the github repro and if successful trigger deployment to production.
 
 ![project](https://github.com/kaiqa/DotNetSimpleAPITest/blob/master/img/1.png)
